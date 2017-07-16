@@ -1,0 +1,1 @@
+c:\users\mscib\documents\visual studio 2015\Projects\MovingJPGSToFolders\MovingJPGSToFolders\bin\Debug\MovingJPGSToFolders.exe.config
