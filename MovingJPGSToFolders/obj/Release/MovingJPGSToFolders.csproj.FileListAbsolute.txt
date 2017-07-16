@@ -1,0 +1,6 @@
+C:\Users\mscib\documents\visual studio 2015\Projects\MovingJPGSToFolders\MovingJPGSToFolders\bin\Release\MovingJPGSToFolders.exe.config
+C:\Users\mscib\documents\visual studio 2015\Projects\MovingJPGSToFolders\MovingJPGSToFolders\bin\Release\MovingJPGSToFolders.exe
+C:\Users\mscib\documents\visual studio 2015\Projects\MovingJPGSToFolders\MovingJPGSToFolders\bin\Release\MovingJPGSToFolders.pdb
+C:\Users\mscib\documents\visual studio 2015\Projects\MovingJPGSToFolders\MovingJPGSToFolders\obj\Release\MovingJPGSToFolders.csprojResolveAssemblyReference.cache
+C:\Users\mscib\documents\visual studio 2015\Projects\MovingJPGSToFolders\MovingJPGSToFolders\obj\Release\MovingJPGSToFolders.exe
+C:\Users\mscib\documents\visual studio 2015\Projects\MovingJPGSToFolders\MovingJPGSToFolders\obj\Release\MovingJPGSToFolders.pdb
